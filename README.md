@@ -1,32 +1,31 @@
-<!-- Soft Purple-Pink Header -->
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dda0dd,100:87cefa&height=180&section=header&text=Hi,%20I'm%20NiLima&fontSize=36&fontColor=ffffff"/>
 </p>
 
 <h3 align="center">
-Student • Web Developer • AI/ML Learner
+Student • Backend Developer • Future AI/ML Engineer
 </h3>
 
 <p align="center">
-  <!-- Cute coding gif -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240"/>
 </p>
 
 ---
 
 ## 🌸 About Me
 
-I am a student passionate about programming and technology.  
-I enjoy building real-world projects using web development and backend systems.  
-Currently learning Python, AI, Machine Learning, and backend development.
+I am a student passionate about programming, embedded systems, and artificial intelligence.  
+I enjoy building real-world projects combining hardware and software.  
+My goal is to become an **AI/ML Engineer** and develop intelligent systems.
 
 ---
 
 ## 🚀 Currently Working On
-  
+
 • Backend Software Project  
 • Python AI & ML Learning  
-• Exploring Backend Development  
+• Verilog Digital Design Projects  
 
 ---
 
@@ -38,32 +37,71 @@ Currently learning Python, AI, Machine Learning, and backend development.
 • Backend Development  
 • Go Programming Language  
 
-<p align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
-</p>
-
 ---
 
-## 🛠 Skills
+# 🛠 Languages & Tools
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-d8bfd8?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-b0c4de?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-dda0dd?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-d8bfd8?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-b0c4de?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-dda0dd?style=for-the-badge&logo=matlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-ffb6c1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Go-b0c4de?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,c,cpp,go,matlab&perline=5"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Verilog-9370DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Assembly-87CEFA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-FFB6C1?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Hardware & Embedded Skills
+
+• Verilog  
+• Digital Logic Design  
+• Embedded Systems  
+• Arduino  
+• Circuit Simulation  
+
+---
+
+# ⭐ Featured Projects
+
+## ⏰ Digital Clock using Verilog
+
+• Designed using Verilog HDL  
+• Displays hours, minutes, seconds  
+• Uses clock divider logic  
+• FPGA compatible  
+
+🔗 Add your project link here
+
+---
+
+## 🧠 Backend Software Project
+
+• Backend system development  
+• API creation  
+• Database connection  
+• Server-side logic  
+
+🔗 Add your project link here
+
+---
+
+## 🤖 AI / ML Learning Projects
+
+• Python Machine Learning  
+• Model Training  
+• Data Processing  
+
+🔗 Add your project link here
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -75,7 +113,7 @@ Currently learning Python, AI, Machine Learning, and backend development.
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
 All of my projects are available here:
 
@@ -83,7 +121,7 @@ All of my projects are available here:
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 • GitHub: https://github.com/NiLima-H  
 
