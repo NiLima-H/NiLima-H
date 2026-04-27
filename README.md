@@ -22,10 +22,9 @@ Currently learning Python, AI, and Machine Learning.
 ---
 
 ## Currently Working On
-
-• Line Follower Robot (LFR)  
-• School Management System  
-• Python AI & ML learning  
+  
+• Python AI & ML learning
+• Backend Software Project
 
 ---
 
@@ -34,7 +33,7 @@ Currently learning Python, AI, and Machine Learning.
 • Python  
 • Machine Learning  
 • Artificial Intelligence  
-• Node.js  
+
 
 ---
 
