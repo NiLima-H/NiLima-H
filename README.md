@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Student • Backend Developer • Future AI/ML Engineer
+Student
 </h3>
 
 <p align="center">
