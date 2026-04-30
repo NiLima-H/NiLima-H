@@ -76,7 +76,7 @@ My goal is to become an **AI/ML Engineer** and develop intelligent systems.
 • Uses clock divider logic  
 • FPGA compatible  
 
-🔗 Add your project link here
+🔗 
 
 ---
 
@@ -87,7 +87,7 @@ My goal is to become an **AI/ML Engineer** and develop intelligent systems.
 • Database connection  
 • Server-side logic  
 
-🔗 Add your project link here
+🔗 
 
 ---
 
@@ -97,7 +97,7 @@ My goal is to become an **AI/ML Engineer** and develop intelligent systems.
 • Model Training  
 • Data Processing  
 
-🔗 Add your project link here
+🔗 
 
 ---
 
